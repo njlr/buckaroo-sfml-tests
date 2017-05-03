@@ -1,0 +1,7 @@
+{
+  "name": "sfm",
+  "dependencies": {
+    "sfml/sfml-graphics": "2.4.2",
+    "sfml/sfml-audio": "2.4.2"
+  }
+}
