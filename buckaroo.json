@@ -1,7 +1,10 @@
 {
-  "name": "sfm",
+  "name": "buckaroo-test-sfml-sfml",
   "dependencies": {
-    "sfml/sfml-graphics": "2.4.2",
-    "sfml/sfml-audio": "2.4.2"
+    "sfml/system": "2.4.2",
+    "sfml/window": "2.4.2",
+    "sfml/graphics": "2.4.2",
+    "sfml/audio": "2.4.2",
+    "sfml/network": "2.4.2"
   }
 }

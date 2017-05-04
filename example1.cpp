@@ -1,7 +1,7 @@
 #include <SFML/Graphics.hpp>
 
-int main()
-{
+int main() {
+  
     // create the window
     sf::RenderWindow window(sf::VideoMode(800, 600), "My window");
 

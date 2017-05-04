@@ -1,10 +1,9 @@
 include_defs('//BUCKAROO_DEPS')
 
 cxx_binary(
-  name = 'test1',
-  srcs = glob([
-    'test1.cpp',
-  ]),
+  name = 'example1',
+  srcs = [
+    'example1.cpp',
+  ],
   deps = BUCKAROO_DEPS,
 )
-
